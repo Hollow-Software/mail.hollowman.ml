@@ -13,4 +13,4 @@
 [![MIT Licence](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/mit-license.php)
 [![Repo-Size](https://img.shields.io/github/repo-size/Hollow-Software/mail.hollowman.ml.svg)](../../archive/master.zip)
 
-https://mail.hollowman.ml -> mailto:hollowman@hollowman.ml
+https://mail.hollowman.ml -> mailto:hollowman@opensuse.org
